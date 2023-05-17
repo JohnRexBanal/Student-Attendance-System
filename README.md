@@ -14,4 +14,6 @@
 
 ![image](https://github.com/JohnRexBanal/Student-Attendance-System/assets/118782481/0015afd6-8c5a-46d2-867d-f9afc4ef9f66)
 
+![image](https://github.com/JohnRexBanal/Student-Attendance-System/assets/118782481/e27c2f25-013a-44be-9679-7640022f9c7c)
 
+![image](https://github.com/JohnRexBanal/Student-Attendance-System/assets/118782481/69078093-35c7-48da-b371-665dd8798105)
